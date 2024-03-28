@@ -53,4 +53,35 @@ button {
 .macbook-image {
     justify-content: center;
     margin-left: 19%;
+    padding-bottom: 5px;
+}
+.iphon15 {
+    z-index: -1;
+    padding-top: 0;
+    position: absolute;
+}
+.home2-title {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 52px;
+    background-color: black;
+    position: relative;
+    padding-top: 25px;
+    top: 160px;
+
+
+}
+.home2-title2 {
+    text-align: center;
+    font-size: 28px;
+    color: white;
+    background-color: black;
+    position: relative;
+    top: 145px;
+}
+.bbtn {
+    z-index: 1;
+    position: relative;
+    top: 150px;
 }
