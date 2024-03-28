@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #EEEEEE;
+}
+.nav-text {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.nav-text:hover {
+    color: black;
+    text-decoration: none;
+}
+header {
+    position: fixed;
+}
+header ul {
+    display: flex;
+    list-style-type: none;
+    margin-top: 11px;
+}
+header ul li a {
+    padding-right: 34px;
+
+}
+.apple-logo {
+    margin-left: 70px;
+}
