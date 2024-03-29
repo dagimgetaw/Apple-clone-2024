@@ -53,12 +53,10 @@ button {
 .macbook-image {
     justify-content: center;
     margin-left: 19%;
-    padding-bottom: 5px;
 }
 .iphon15 {
     z-index: -1;
     padding-top: 0;
-    position: absolute;
 }
 .home2-title {
     text-align: center;
@@ -84,4 +82,24 @@ button {
     z-index: 1;
     position: relative;
     top: 150px;
+}
+.home3-title {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-size: 52px;
+    position: relative;
+    padding-top: 25px;
+    top: 40px;
+
+
+}
+.home3-title2 {
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    padding-top: 30px;
+}
+.home2-btn {
+    padding-top: 48px;
 }
