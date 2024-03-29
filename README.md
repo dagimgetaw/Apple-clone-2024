@@ -5,4 +5,4 @@ HTML + CSS + Bootstrap
 # Drawback
 
 - The navbar blocked on some part
-- Not responsive
+- Not responsive on phone and tablet mode
